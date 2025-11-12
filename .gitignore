@@ -1,0 +1,13 @@
+# Environment files
+.env
+*.env
+
+# Virtual environments
+quiz_env/
+venv/
+
+# Python cache
+__pycache__/
+
+# Streamlit cache
+.streamlit/
