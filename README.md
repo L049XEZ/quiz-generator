@@ -82,6 +82,3 @@ Enable question export (to CSV / JSON / Google Forms)
 
 Add user leaderboard and progress tracking
 
-### ❤️ Author
-
-Low Yvonne
